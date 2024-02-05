@@ -12,7 +12,7 @@
 
 🚀 For my fifth internship, I will be working at <b>Tesla</b> as a <b>Full Stack Developer Intern</b> in California for Summer & Fall 2024!
 
-👨‍💻 I am currently the VP of Technology at the University of Waterloo's Entrepeneurship Society, leading teams to build impactful software products.
+👨‍💻 I am currently the VP of Technology at the University of Waterloo's Entrepeneurship Society, leading teams to build impactful and innovative software products.
 
 <br/>
 <div align="center">

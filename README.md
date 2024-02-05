@@ -8,7 +8,7 @@
 
 🏫 I am a <b>Fourth Year</b> Honours Computer Science student at the <b>University of Waterloo</b>, specializing in Software Engineering.
 
-🏛️ I have completed four internships : @Deloitte, @OpenLane and 2x @TutorOcean.
+🏛️ I have completed four internships : @Deloitte, @OpenLane, and 2x @TutorOcean.
 
 🚀 For my fifth internship, I will be working at <b>Tesla</b> as a <b>Full Stack Developer Intern</b> in California for Summer & Fall 2024!
 

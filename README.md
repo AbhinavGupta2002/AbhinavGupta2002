@@ -6,11 +6,13 @@
   <br/>
 </div>
 
-🏫 I'm a <b>Fourth Year</b> Honours Computer Science student at the <b>University of Waterloo</b>, specializing in Software Engineering.
+🏫 I am a <b>Fourth Year</b> Honours Computer Science student at the <b>University of Waterloo</b>, specializing in Software Engineering.
 
-🏛️ I've completed four internships : @Deloitte, @OpenLane and 2x @TutorOcean.
+🏛️ I have completed four internships : @Deloitte, @OpenLane and 2x @TutorOcean.
 
 🚀 For my fifth internship, I will be working at <b>Tesla</b> as a <b>Full Stack Developer Intern</b> in California for Summer & Fall 2024!
+
+👨‍💻 I am currently the VP of Technology at the University of Waterloo's Entrepeneurship Society, leading teams to building great and impactful products.
 
 <br/>
 <div align="center">

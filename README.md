@@ -10,7 +10,7 @@
 
 🏛️ I have completed four internships : @Deloitte, @OpenLane, and 2x @TutorOcean.
 
-🚀 For my fifth internship, I will be working at <b>Tesla</b> as a <b>Full Stack Developer Intern</b> in California for Summer 2024!
+🚀 For my fifth internship, I will be working at <b>Tesla</b> as a <b>Full Stack Engineer</b> in California for Summer 2024!
 
 👨‍💻 I am currently the VP of Technology at the University of Waterloo's Entrepeneurship Society, leading teams to build impactful and innovative software products.
 

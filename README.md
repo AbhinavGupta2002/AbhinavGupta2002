@@ -8,7 +8,7 @@
 
 🏫 I am a <b>Fourth Year</b> Honours Computer Science student at the <b>University of Waterloo</b>, specializing in Software Engineering.
 
-🏛️ I have completed four internships : @Deloitte, @OpenLane, and 2x @TutorOcean.
+🏛️ I have completed five internships : ML@Bell, Cloud@Deloitte, Backend@OpenLane, Frontend@TutorOcean, TestAutomation@TutorOcean.
 
 👨‍💻 I was the VP of Technology at the University of Waterloo's Entrepeneurship Society for a year, leading teams to build impactful and innovative software products.
 

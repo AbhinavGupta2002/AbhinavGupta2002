@@ -10,7 +10,9 @@
 
 🏛️ I have completed four internships : @Deloitte, @OpenLane, and 2x @TutorOcean.
 
-👨‍💻 I am currently the VP of Technology at the University of Waterloo's Entrepeneurship Society, leading teams to build impactful and innovative software products.
+👨‍💻 I was the VP of Technology at the University of Waterloo's Entrepeneurship Society for a year, leading teams to build impactful and innovative software products.
+
+👨‍💻 I am currently the VP of Engineering at the University of Waterloo's Blueprint club, managing development teams in building software for non-profit organizations across Canada.
 
 <br/>
 <div align="center">
